@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 2986aef7c69d5604787db55d8aaa2ac9
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 10
+    100004: 11
+    100006: 12
+    100008: 2
+    100010: 3
+    100012: 4
+    100014: 5
+    100016: 6
+    100018: 7
+    100020: 8
+    100022: 9
+    100024: //RootNode
+    100026: brook_n_13
+    100028: CenterOfMass
+    100030: CenterOfMass 1
+    100032: CenterOfMass 10
+    100034: CenterOfMass 11
+    100036: CenterOfMass 12
+    100038: CenterOfMass 2
+    100040: CenterOfMass 3
+    100042: CenterOfMass 4
+    100044: CenterOfMass 5
+    100046: CenterOfMass 6
+    100048: CenterOfMass 7
+    100050: CenterOfMass 8
+    100052: CenterOfMass 9
+    100054: null
+    100056: unnamed
+    400000: 1
+    400002: 10
+    400004: 11
+    400006: 12
+    400008: 2
+    400010: 3
+    400012: 4
+    400014: 5
+    400016: 6
+    400018: 7
+    400020: 8
+    400022: 9
+    400024: //RootNode
+    400026: brook_n_13
+    400028: CenterOfMass
+    400030: CenterOfMass 1
+    400032: CenterOfMass 10
+    400034: CenterOfMass 11
+    400036: CenterOfMass 12
+    400038: CenterOfMass 2
+    400040: CenterOfMass 3
+    400042: CenterOfMass 4
+    400044: CenterOfMass 5
+    400046: CenterOfMass 6
+    400048: CenterOfMass 7
+    400050: CenterOfMass 8
+    400052: CenterOfMass 9
+    400054: null
+    400056: unnamed
+    2300000: 1
+    2300002: 10
+    2300004: 11
+    2300006: 12
+    2300008: 2
+    2300010: 3
+    2300012: 4
+    2300014: 5
+    2300016: 6
+    2300018: 7
+    2300020: 8
+    2300022: 9
+    2300024: null
+    3300000: 1
+    3300002: 10
+    3300004: 11
+    3300006: 12
+    3300008: 2
+    3300010: 3
+    3300012: 4
+    3300014: 5
+    3300016: 6
+    3300018: 7
+    3300020: 8
+    3300022: 9
+    3300024: null
+    4300000: null
+    4300002: 1
+    4300004: 2
+    4300006: 3
+    4300008: 4
+    4300010: 5
+    4300012: 6
+    4300014: 7
+    4300016: 8
+    4300018: 9
+    4300020: 10
+    4300022: 11
+    4300024: 12
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

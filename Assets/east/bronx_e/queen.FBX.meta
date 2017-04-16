@@ -1,0 +1,890 @@
+fileFormatVersion: 2
+guid: 0caf007fedbc4c646b74e251023c45cc
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1 1
+    100004: 1 10
+    100006: 1 11
+    100008: 1 12
+    100010: 1 13
+    100012: 1 14
+    100014: 1 15
+    100016: 1 16
+    100018: 1 17
+    100020: 1 18
+    100022: 1 19
+    100024: 1 2
+    100026: 1 20
+    100028: 1 3
+    100030: 1 4
+    100032: 1 5
+    100034: 1 6
+    100036: 1 7
+    100038: 1 8
+    100040: 1 9
+    100042: 2
+    100044: 2 1
+    100046: 2 10
+    100048: 2 11
+    100050: 2 12
+    100052: 2 13
+    100054: 2 14
+    100056: 2 15
+    100058: 2 16
+    100060: 2 17
+    100062: 2 18
+    100064: 2 19
+    100066: 2 2
+    100068: 2 3
+    100070: 2 4
+    100072: 2 5
+    100074: 2 6
+    100076: 2 7
+    100078: 2 8
+    100080: 2 9
+    100082: 3
+    100084: 3 1
+    100086: 3 10
+    100088: 3 11
+    100090: 3 12
+    100092: 3 13
+    100094: 3 14
+    100096: 3 15
+    100098: 3 2
+    100100: 3 3
+    100102: 3 4
+    100104: 3 5
+    100106: 3 6
+    100108: 3 7
+    100110: 3 8
+    100112: 3 9
+    100114: 4
+    100116: 4 1
+    100118: 4 2
+    100120: 4 3
+    100122: 4 4
+    100124: 4 5
+    100126: 4 6
+    100128: 4 7
+    100130: 4 8
+    100132: 5
+    100134: 5 1
+    100136: 5 2
+    100138: 5 3
+    100140: 5 4
+    100142: 6
+    100144: 6 1
+    100146: 6 2
+    100148: 6 3
+    100150: CenterOfMass
+    100152: CenterOfMass 1
+    100154: CenterOfMass 10
+    100156: CenterOfMass 100
+    100158: CenterOfMass 101
+    100160: CenterOfMass 102
+    100162: CenterOfMass 103
+    100164: CenterOfMass 104
+    100166: CenterOfMass 105
+    100168: CenterOfMass 106
+    100170: CenterOfMass 107
+    100172: CenterOfMass 108
+    100174: CenterOfMass 109
+    100176: CenterOfMass 11
+    100178: CenterOfMass 110
+    100180: CenterOfMass 111
+    100182: CenterOfMass 112
+    100184: CenterOfMass 113
+    100186: CenterOfMass 114
+    100188: CenterOfMass 115
+    100190: CenterOfMass 116
+    100192: CenterOfMass 12
+    100194: CenterOfMass 13
+    100196: CenterOfMass 14
+    100198: CenterOfMass 15
+    100200: CenterOfMass 16
+    100202: CenterOfMass 17
+    100204: CenterOfMass 18
+    100206: CenterOfMass 19
+    100208: CenterOfMass 2
+    100210: CenterOfMass 20
+    100212: CenterOfMass 21
+    100214: CenterOfMass 22
+    100216: CenterOfMass 23
+    100218: CenterOfMass 24
+    100220: CenterOfMass 25
+    100222: CenterOfMass 26
+    100224: CenterOfMass 27
+    100226: CenterOfMass 28
+    100228: CenterOfMass 29
+    100230: CenterOfMass 3
+    100232: CenterOfMass 30
+    100234: CenterOfMass 31
+    100236: CenterOfMass 32
+    100238: CenterOfMass 33
+    100240: CenterOfMass 34
+    100242: CenterOfMass 35
+    100244: CenterOfMass 36
+    100246: CenterOfMass 37
+    100248: CenterOfMass 38
+    100250: CenterOfMass 39
+    100252: CenterOfMass 4
+    100254: CenterOfMass 40
+    100256: CenterOfMass 41
+    100258: CenterOfMass 42
+    100260: CenterOfMass 43
+    100262: CenterOfMass 44
+    100264: CenterOfMass 45
+    100266: CenterOfMass 46
+    100268: CenterOfMass 47
+    100270: CenterOfMass 48
+    100272: CenterOfMass 49
+    100274: CenterOfMass 5
+    100276: CenterOfMass 50
+    100278: CenterOfMass 51
+    100280: CenterOfMass 52
+    100282: CenterOfMass 53
+    100284: CenterOfMass 54
+    100286: CenterOfMass 55
+    100288: CenterOfMass 56
+    100290: CenterOfMass 57
+    100292: CenterOfMass 58
+    100294: CenterOfMass 59
+    100296: CenterOfMass 6
+    100298: CenterOfMass 60
+    100300: CenterOfMass 61
+    100302: CenterOfMass 62
+    100304: CenterOfMass 63
+    100306: CenterOfMass 64
+    100308: CenterOfMass 65
+    100310: CenterOfMass 66
+    100312: CenterOfMass 67
+    100314: CenterOfMass 68
+    100316: CenterOfMass 69
+    100318: CenterOfMass 7
+    100320: CenterOfMass 70
+    100322: CenterOfMass 71
+    100324: CenterOfMass 72
+    100326: CenterOfMass 73
+    100328: CenterOfMass 74
+    100330: CenterOfMass 75
+    100332: CenterOfMass 76
+    100334: CenterOfMass 77
+    100336: CenterOfMass 78
+    100338: CenterOfMass 79
+    100340: CenterOfMass 8
+    100342: CenterOfMass 80
+    100344: CenterOfMass 81
+    100346: CenterOfMass 82
+    100348: CenterOfMass 83
+    100350: CenterOfMass 84
+    100352: CenterOfMass 85
+    100354: CenterOfMass 86
+    100356: CenterOfMass 87
+    100358: CenterOfMass 88
+    100360: CenterOfMass 89
+    100362: CenterOfMass 9
+    100364: CenterOfMass 90
+    100366: CenterOfMass 91
+    100368: CenterOfMass 92
+    100370: CenterOfMass 93
+    100372: CenterOfMass 94
+    100374: CenterOfMass 95
+    100376: CenterOfMass 96
+    100378: CenterOfMass 97
+    100380: CenterOfMass 98
+    100382: CenterOfMass 99
+    100384: null
+    100386: null 1
+    100388: null 10
+    100390: null 11
+    100392: null 12
+    100394: null 13
+    100396: null 14
+    100398: null 15
+    100400: null 16
+    100402: null 17
+    100404: null 18
+    100406: null 19
+    100408: null 2
+    100410: null 20
+    100412: null 3
+    100414: null 4
+    100416: null 5
+    100418: null 6
+    100420: null 7
+    100422: null 8
+    100424: null 9
+    100426: //RootNode
+    100428: queens_e_1
+    100430: queens_e_10
+    100432: queens_e_11
+    100434: queens_e_12
+    100436: queens_e_13
+    100438: queens_e_14
+    100440: queens_e_15
+    100442: queens_e_16
+    100444: queens_e_17
+    100446: queens_e_18
+    100448: queens_e_19
+    100450: queens_e_2
+    100452: queens_e_20
+    100454: queens_e_21
+    100456: queens_e_22
+    100458: queens_e_23
+    100460: queens_e_3
+    100462: queens_e_4
+    100464: queens_e_5
+    100466: queens_e_6
+    100468: queens_e_7
+    100470: queens_e_8
+    100472: queens_e_9
+    100474: unnamed
+    100476: unnamed 1
+    100478: unnamed 10
+    100480: unnamed 11
+    100482: unnamed 12
+    100484: unnamed 13
+    100486: unnamed 14
+    100488: unnamed 15
+    100490: unnamed 16
+    100492: unnamed 17
+    100494: unnamed 18
+    100496: unnamed 19
+    100498: unnamed 2
+    100500: unnamed 20
+    100502: unnamed 21
+    100504: unnamed 22
+    100506: unnamed 3
+    100508: unnamed 4
+    100510: unnamed 5
+    100512: unnamed 6
+    100514: unnamed 7
+    100516: unnamed 8
+    100518: unnamed 9
+    400000: 1
+    400002: 1 1
+    400004: 1 10
+    400006: 1 11
+    400008: 1 12
+    400010: 1 13
+    400012: 1 14
+    400014: 1 15
+    400016: 1 16
+    400018: 1 17
+    400020: 1 18
+    400022: 1 19
+    400024: 1 2
+    400026: 1 20
+    400028: 1 3
+    400030: 1 4
+    400032: 1 5
+    400034: 1 6
+    400036: 1 7
+    400038: 1 8
+    400040: 1 9
+    400042: 2
+    400044: 2 1
+    400046: 2 10
+    400048: 2 11
+    400050: 2 12
+    400052: 2 13
+    400054: 2 14
+    400056: 2 15
+    400058: 2 16
+    400060: 2 17
+    400062: 2 18
+    400064: 2 19
+    400066: 2 2
+    400068: 2 3
+    400070: 2 4
+    400072: 2 5
+    400074: 2 6
+    400076: 2 7
+    400078: 2 8
+    400080: 2 9
+    400082: 3
+    400084: 3 1
+    400086: 3 10
+    400088: 3 11
+    400090: 3 12
+    400092: 3 13
+    400094: 3 14
+    400096: 3 15
+    400098: 3 2
+    400100: 3 3
+    400102: 3 4
+    400104: 3 5
+    400106: 3 6
+    400108: 3 7
+    400110: 3 8
+    400112: 3 9
+    400114: 4
+    400116: 4 1
+    400118: 4 2
+    400120: 4 3
+    400122: 4 4
+    400124: 4 5
+    400126: 4 6
+    400128: 4 7
+    400130: 4 8
+    400132: 5
+    400134: 5 1
+    400136: 5 2
+    400138: 5 3
+    400140: 5 4
+    400142: 6
+    400144: 6 1
+    400146: 6 2
+    400148: 6 3
+    400150: CenterOfMass
+    400152: CenterOfMass 1
+    400154: CenterOfMass 10
+    400156: CenterOfMass 100
+    400158: CenterOfMass 101
+    400160: CenterOfMass 102
+    400162: CenterOfMass 103
+    400164: CenterOfMass 104
+    400166: CenterOfMass 105
+    400168: CenterOfMass 106
+    400170: CenterOfMass 107
+    400172: CenterOfMass 108
+    400174: CenterOfMass 109
+    400176: CenterOfMass 11
+    400178: CenterOfMass 110
+    400180: CenterOfMass 111
+    400182: CenterOfMass 112
+    400184: CenterOfMass 113
+    400186: CenterOfMass 114
+    400188: CenterOfMass 115
+    400190: CenterOfMass 116
+    400192: CenterOfMass 12
+    400194: CenterOfMass 13
+    400196: CenterOfMass 14
+    400198: CenterOfMass 15
+    400200: CenterOfMass 16
+    400202: CenterOfMass 17
+    400204: CenterOfMass 18
+    400206: CenterOfMass 19
+    400208: CenterOfMass 2
+    400210: CenterOfMass 20
+    400212: CenterOfMass 21
+    400214: CenterOfMass 22
+    400216: CenterOfMass 23
+    400218: CenterOfMass 24
+    400220: CenterOfMass 25
+    400222: CenterOfMass 26
+    400224: CenterOfMass 27
+    400226: CenterOfMass 28
+    400228: CenterOfMass 29
+    400230: CenterOfMass 3
+    400232: CenterOfMass 30
+    400234: CenterOfMass 31
+    400236: CenterOfMass 32
+    400238: CenterOfMass 33
+    400240: CenterOfMass 34
+    400242: CenterOfMass 35
+    400244: CenterOfMass 36
+    400246: CenterOfMass 37
+    400248: CenterOfMass 38
+    400250: CenterOfMass 39
+    400252: CenterOfMass 4
+    400254: CenterOfMass 40
+    400256: CenterOfMass 41
+    400258: CenterOfMass 42
+    400260: CenterOfMass 43
+    400262: CenterOfMass 44
+    400264: CenterOfMass 45
+    400266: CenterOfMass 46
+    400268: CenterOfMass 47
+    400270: CenterOfMass 48
+    400272: CenterOfMass 49
+    400274: CenterOfMass 5
+    400276: CenterOfMass 50
+    400278: CenterOfMass 51
+    400280: CenterOfMass 52
+    400282: CenterOfMass 53
+    400284: CenterOfMass 54
+    400286: CenterOfMass 55
+    400288: CenterOfMass 56
+    400290: CenterOfMass 57
+    400292: CenterOfMass 58
+    400294: CenterOfMass 59
+    400296: CenterOfMass 6
+    400298: CenterOfMass 60
+    400300: CenterOfMass 61
+    400302: CenterOfMass 62
+    400304: CenterOfMass 63
+    400306: CenterOfMass 64
+    400308: CenterOfMass 65
+    400310: CenterOfMass 66
+    400312: CenterOfMass 67
+    400314: CenterOfMass 68
+    400316: CenterOfMass 69
+    400318: CenterOfMass 7
+    400320: CenterOfMass 70
+    400322: CenterOfMass 71
+    400324: CenterOfMass 72
+    400326: CenterOfMass 73
+    400328: CenterOfMass 74
+    400330: CenterOfMass 75
+    400332: CenterOfMass 76
+    400334: CenterOfMass 77
+    400336: CenterOfMass 78
+    400338: CenterOfMass 79
+    400340: CenterOfMass 8
+    400342: CenterOfMass 80
+    400344: CenterOfMass 81
+    400346: CenterOfMass 82
+    400348: CenterOfMass 83
+    400350: CenterOfMass 84
+    400352: CenterOfMass 85
+    400354: CenterOfMass 86
+    400356: CenterOfMass 87
+    400358: CenterOfMass 88
+    400360: CenterOfMass 89
+    400362: CenterOfMass 9
+    400364: CenterOfMass 90
+    400366: CenterOfMass 91
+    400368: CenterOfMass 92
+    400370: CenterOfMass 93
+    400372: CenterOfMass 94
+    400374: CenterOfMass 95
+    400376: CenterOfMass 96
+    400378: CenterOfMass 97
+    400380: CenterOfMass 98
+    400382: CenterOfMass 99
+    400384: null
+    400386: null 1
+    400388: null 10
+    400390: null 11
+    400392: null 12
+    400394: null 13
+    400396: null 14
+    400398: null 15
+    400400: null 16
+    400402: null 17
+    400404: null 18
+    400406: null 19
+    400408: null 2
+    400410: null 20
+    400412: null 3
+    400414: null 4
+    400416: null 5
+    400418: null 6
+    400420: null 7
+    400422: null 8
+    400424: null 9
+    400426: //RootNode
+    400428: queens_e_1
+    400430: queens_e_10
+    400432: queens_e_11
+    400434: queens_e_12
+    400436: queens_e_13
+    400438: queens_e_14
+    400440: queens_e_15
+    400442: queens_e_16
+    400444: queens_e_17
+    400446: queens_e_18
+    400448: queens_e_19
+    400450: queens_e_2
+    400452: queens_e_20
+    400454: queens_e_21
+    400456: queens_e_22
+    400458: queens_e_23
+    400460: queens_e_3
+    400462: queens_e_4
+    400464: queens_e_5
+    400466: queens_e_6
+    400468: queens_e_7
+    400470: queens_e_8
+    400472: queens_e_9
+    400474: unnamed
+    400476: unnamed 1
+    400478: unnamed 10
+    400480: unnamed 11
+    400482: unnamed 12
+    400484: unnamed 13
+    400486: unnamed 14
+    400488: unnamed 15
+    400490: unnamed 16
+    400492: unnamed 17
+    400494: unnamed 18
+    400496: unnamed 19
+    400498: unnamed 2
+    400500: unnamed 20
+    400502: unnamed 21
+    400504: unnamed 22
+    400506: unnamed 3
+    400508: unnamed 4
+    400510: unnamed 5
+    400512: unnamed 6
+    400514: unnamed 7
+    400516: unnamed 8
+    400518: unnamed 9
+    2300000: 1
+    2300002: 1 1
+    2300004: 1 10
+    2300006: 1 11
+    2300008: 1 12
+    2300010: 1 13
+    2300012: 1 14
+    2300014: 1 15
+    2300016: 1 16
+    2300018: 1 17
+    2300020: 1 18
+    2300022: 1 19
+    2300024: 1 2
+    2300026: 1 20
+    2300028: 1 3
+    2300030: 1 4
+    2300032: 1 5
+    2300034: 1 6
+    2300036: 1 7
+    2300038: 1 8
+    2300040: 1 9
+    2300042: 2
+    2300044: 2 1
+    2300046: 2 10
+    2300048: 2 11
+    2300050: 2 12
+    2300052: 2 13
+    2300054: 2 14
+    2300056: 2 15
+    2300058: 2 16
+    2300060: 2 17
+    2300062: 2 18
+    2300064: 2 19
+    2300066: 2 2
+    2300068: 2 3
+    2300070: 2 4
+    2300072: 2 5
+    2300074: 2 6
+    2300076: 2 7
+    2300078: 2 8
+    2300080: 2 9
+    2300082: 3
+    2300084: 3 1
+    2300086: 3 10
+    2300088: 3 11
+    2300090: 3 12
+    2300092: 3 13
+    2300094: 3 14
+    2300096: 3 15
+    2300098: 3 2
+    2300100: 3 3
+    2300102: 3 4
+    2300104: 3 5
+    2300106: 3 6
+    2300108: 3 7
+    2300110: 3 8
+    2300112: 3 9
+    2300114: 4
+    2300116: 4 1
+    2300118: 4 2
+    2300120: 4 3
+    2300122: 4 4
+    2300124: 4 5
+    2300126: 4 6
+    2300128: 4 7
+    2300130: 4 8
+    2300132: 5
+    2300134: 5 1
+    2300136: 5 2
+    2300138: 5 3
+    2300140: 5 4
+    2300142: 6
+    2300144: 6 1
+    2300146: 6 2
+    2300148: 6 3
+    2300150: null
+    2300152: null 1
+    2300154: null 10
+    2300156: null 11
+    2300158: null 12
+    2300160: null 13
+    2300162: null 14
+    2300164: null 15
+    2300166: null 16
+    2300168: null 17
+    2300170: null 18
+    2300172: null 19
+    2300174: null 2
+    2300176: null 20
+    2300178: null 3
+    2300180: null 4
+    2300182: null 5
+    2300184: null 6
+    2300186: null 7
+    2300188: null 8
+    2300190: null 9
+    2300192: unnamed 12
+    2300194: unnamed 13
+    3300000: 1
+    3300002: 1 1
+    3300004: 1 10
+    3300006: 1 11
+    3300008: 1 12
+    3300010: 1 13
+    3300012: 1 14
+    3300014: 1 15
+    3300016: 1 16
+    3300018: 1 17
+    3300020: 1 18
+    3300022: 1 19
+    3300024: 1 2
+    3300026: 1 20
+    3300028: 1 3
+    3300030: 1 4
+    3300032: 1 5
+    3300034: 1 6
+    3300036: 1 7
+    3300038: 1 8
+    3300040: 1 9
+    3300042: 2
+    3300044: 2 1
+    3300046: 2 10
+    3300048: 2 11
+    3300050: 2 12
+    3300052: 2 13
+    3300054: 2 14
+    3300056: 2 15
+    3300058: 2 16
+    3300060: 2 17
+    3300062: 2 18
+    3300064: 2 19
+    3300066: 2 2
+    3300068: 2 3
+    3300070: 2 4
+    3300072: 2 5
+    3300074: 2 6
+    3300076: 2 7
+    3300078: 2 8
+    3300080: 2 9
+    3300082: 3
+    3300084: 3 1
+    3300086: 3 10
+    3300088: 3 11
+    3300090: 3 12
+    3300092: 3 13
+    3300094: 3 14
+    3300096: 3 15
+    3300098: 3 2
+    3300100: 3 3
+    3300102: 3 4
+    3300104: 3 5
+    3300106: 3 6
+    3300108: 3 7
+    3300110: 3 8
+    3300112: 3 9
+    3300114: 4
+    3300116: 4 1
+    3300118: 4 2
+    3300120: 4 3
+    3300122: 4 4
+    3300124: 4 5
+    3300126: 4 6
+    3300128: 4 7
+    3300130: 4 8
+    3300132: 5
+    3300134: 5 1
+    3300136: 5 2
+    3300138: 5 3
+    3300140: 5 4
+    3300142: 6
+    3300144: 6 1
+    3300146: 6 2
+    3300148: 6 3
+    3300150: null
+    3300152: null 1
+    3300154: null 10
+    3300156: null 11
+    3300158: null 12
+    3300160: null 13
+    3300162: null 14
+    3300164: null 15
+    3300166: null 16
+    3300168: null 17
+    3300170: null 18
+    3300172: null 19
+    3300174: null 2
+    3300176: null 20
+    3300178: null 3
+    3300180: null 4
+    3300182: null 5
+    3300184: null 6
+    3300186: null 7
+    3300188: null 8
+    3300190: null 9
+    3300192: unnamed 12
+    3300194: unnamed 13
+    4300000: null
+    4300002: 1
+    4300004: 2
+    4300006: 3
+    4300008: null
+    4300010: 1
+    4300012: 2
+    4300014: 3
+    4300016: 4
+    4300018: 5
+    4300020: 6
+    4300022: null
+    4300024: 1
+    4300026: 2
+    4300028: 3
+    4300030: null
+    4300032: 1
+    4300034: 2
+    4300036: null
+    4300038: 1
+    4300040: 2
+    4300042: 3
+    4300044: 4
+    4300046: 5
+    4300048: 6
+    4300050: null
+    4300052: 1
+    4300054: 2
+    4300056: null
+    4300058: 1
+    4300060: 2
+    4300062: 3
+    4300064: 4
+    4300066: 5
+    4300068: 6
+    4300070: null
+    4300072: 1
+    4300074: 2
+    4300076: null
+    4300078: 1
+    4300080: 2
+    4300082: 3
+    4300084: 4
+    4300086: 5
+    4300088: 6
+    4300090: null
+    4300092: 1
+    4300094: 2
+    4300096: 3
+    4300098: 4
+    4300100: 5
+    4300102: null
+    4300104: 1
+    4300106: 2
+    4300108: null
+    4300110: 1
+    4300112: 2
+    4300114: 3
+    4300116: null
+    4300118: 1
+    4300120: 2
+    4300122: 3
+    4300124: 4
+    4300126: null
+    4300128: 1
+    4300130: null
+    4300132: 1
+    4300134: 2
+    4300136: 3
+    4300138: null
+    4300140: 1
+    4300142: 2
+    4300144: 3
+    4300146: 4
+    4300148: null
+    4300150: 1
+    4300152: 2
+    4300154: 3
+    4300156: null
+    4300158: 1
+    4300160: 2
+    4300162: 3
+    4300164: 4
+    4300166: null
+    4300168: 1
+    4300170: 2
+    4300172: 3
+    4300174: unnamed
+    4300176: unnamed
+    4300178: null
+    4300180: 1
+    4300182: 2
+    4300184: 3
+    4300186: null
+    4300188: 1
+    4300190: 2
+    4300192: 3
+    4300194: 4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

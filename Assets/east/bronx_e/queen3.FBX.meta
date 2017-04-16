@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 6a41ad5b19412af41897217d9fcc6d06
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1 1
+    100004: 1 2
+    100006: 1 3
+    100008: 1 4
+    100010: 1 5
+    100012: 1 6
+    100014: 1 7
+    100016: 1 8
+    100018: 1 9
+    100020: 2
+    100022: 2 1
+    100024: 2 2
+    100026: 2 3
+    100028: 2 4
+    100030: 2 5
+    100032: 2 6
+    100034: 2 7
+    100036: 2 8
+    100038: 2 9
+    100040: 3
+    100042: 3 1
+    100044: 3 2
+    100046: 3 3
+    100048: 3 4
+    100050: 3 5
+    100052: 3 6
+    100054: 4
+    100056: 4 1
+    100058: 4 2
+    100060: 4 3
+    100062: 4 4
+    100064: 5
+    100066: 5 1
+    100068: 5 2
+    100070: 5 3
+    100072: 5 4
+    100074: 6
+    100076: 6 1
+    100078: 6 2
+    100080: 6 3
+    100082: 7
+    100084: 8
+    100086: CenterOfMass
+    100088: CenterOfMass 1
+    100090: CenterOfMass 10
+    100092: CenterOfMass 11
+    100094: CenterOfMass 12
+    100096: CenterOfMass 13
+    100098: CenterOfMass 14
+    100100: CenterOfMass 15
+    100102: CenterOfMass 16
+    100104: CenterOfMass 17
+    100106: CenterOfMass 18
+    100108: CenterOfMass 19
+    100110: CenterOfMass 2
+    100112: CenterOfMass 20
+    100114: CenterOfMass 21
+    100116: CenterOfMass 22
+    100118: CenterOfMass 23
+    100120: CenterOfMass 24
+    100122: CenterOfMass 25
+    100124: CenterOfMass 26
+    100126: CenterOfMass 27
+    100128: CenterOfMass 28
+    100130: CenterOfMass 29
+    100132: CenterOfMass 3
+    100134: CenterOfMass 30
+    100136: CenterOfMass 31
+    100138: CenterOfMass 32
+    100140: CenterOfMass 33
+    100142: CenterOfMass 34
+    100144: CenterOfMass 35
+    100146: CenterOfMass 36
+    100148: CenterOfMass 37
+    100150: CenterOfMass 38
+    100152: CenterOfMass 39
+    100154: CenterOfMass 4
+    100156: CenterOfMass 40
+    100158: CenterOfMass 41
+    100160: CenterOfMass 42
+    100162: CenterOfMass 43
+    100164: CenterOfMass 44
+    100166: CenterOfMass 45
+    100168: CenterOfMass 46
+    100170: CenterOfMass 47
+    100172: CenterOfMass 48
+    100174: CenterOfMass 49
+    100176: CenterOfMass 5
+    100178: CenterOfMass 50
+    100180: CenterOfMass 51
+    100182: CenterOfMass 52
+    100184: CenterOfMass 53
+    100186: CenterOfMass 54
+    100188: CenterOfMass 55
+    100190: CenterOfMass 56
+    100192: CenterOfMass 57
+    100194: CenterOfMass 58
+    100196: CenterOfMass 59
+    100198: CenterOfMass 6
+    100200: CenterOfMass 60
+    100202: CenterOfMass 61
+    100204: CenterOfMass 62
+    100206: CenterOfMass 63
+    100208: CenterOfMass 7
+    100210: CenterOfMass 8
+    100212: CenterOfMass 9
+    100214: null
+    100216: null 1
+    100218: null 2
+    100220: null 3
+    100222: null 4
+    100224: null 5
+    100226: null 6
+    100228: null 7
+    100230: null 8
+    100232: null 9
+    100234: //RootNode
+    100236: queens_w_1
+    100238: queens_w_10
+    100240: queens_w_11
+    100242: queens_w_12
+    100244: queens_w_13
+    100246: queens_w_2
+    100248: queens_w_3
+    100250: queens_w_4
+    100252: queens_w_5
+    100254: queens_w_6
+    100256: queens_w_7
+    100258: queens_w_8
+    100260: queens_w_9
+    100262: unnamed
+    100264: unnamed 1
+    100266: unnamed 10
+    100268: unnamed 11
+    100270: unnamed 12
+    100272: unnamed 2
+    100274: unnamed 3
+    100276: unnamed 4
+    100278: unnamed 5
+    100280: unnamed 6
+    100282: unnamed 7
+    100284: unnamed 8
+    100286: unnamed 9
+    400000: 1
+    400002: 1 1
+    400004: 1 2
+    400006: 1 3
+    400008: 1 4
+    400010: 1 5
+    400012: 1 6
+    400014: 1 7
+    400016: 1 8
+    400018: 1 9
+    400020: 2
+    400022: 2 1
+    400024: 2 2
+    400026: 2 3
+    400028: 2 4
+    400030: 2 5
+    400032: 2 6
+    400034: 2 7
+    400036: 2 8
+    400038: 2 9
+    400040: 3
+    400042: 3 1
+    400044: 3 2
+    400046: 3 3
+    400048: 3 4
+    400050: 3 5
+    400052: 3 6
+    400054: 4
+    400056: 4 1
+    400058: 4 2
+    400060: 4 3
+    400062: 4 4
+    400064: 5
+    400066: 5 1
+    400068: 5 2
+    400070: 5 3
+    400072: 5 4
+    400074: 6
+    400076: 6 1
+    400078: 6 2
+    400080: 6 3
+    400082: 7
+    400084: 8
+    400086: CenterOfMass
+    400088: CenterOfMass 1
+    400090: CenterOfMass 10
+    400092: CenterOfMass 11
+    400094: CenterOfMass 12
+    400096: CenterOfMass 13
+    400098: CenterOfMass 14
+    400100: CenterOfMass 15
+    400102: CenterOfMass 16
+    400104: CenterOfMass 17
+    400106: CenterOfMass 18
+    400108: CenterOfMass 19
+    400110: CenterOfMass 2
+    400112: CenterOfMass 20
+    400114: CenterOfMass 21
+    400116: CenterOfMass 22
+    400118: CenterOfMass 23
+    400120: CenterOfMass 24
+    400122: CenterOfMass 25
+    400124: CenterOfMass 26
+    400126: CenterOfMass 27
+    400128: CenterOfMass 28
+    400130: CenterOfMass 29
+    400132: CenterOfMass 3
+    400134: CenterOfMass 30
+    400136: CenterOfMass 31
+    400138: CenterOfMass 32
+    400140: CenterOfMass 33
+    400142: CenterOfMass 34
+    400144: CenterOfMass 35
+    400146: CenterOfMass 36
+    400148: CenterOfMass 37
+    400150: CenterOfMass 38
+    400152: CenterOfMass 39
+    400154: CenterOfMass 4
+    400156: CenterOfMass 40
+    400158: CenterOfMass 41
+    400160: CenterOfMass 42
+    400162: CenterOfMass 43
+    400164: CenterOfMass 44
+    400166: CenterOfMass 45
+    400168: CenterOfMass 46
+    400170: CenterOfMass 47
+    400172: CenterOfMass 48
+    400174: CenterOfMass 49
+    400176: CenterOfMass 5
+    400178: CenterOfMass 50
+    400180: CenterOfMass 51
+    400182: CenterOfMass 52
+    400184: CenterOfMass 53
+    400186: CenterOfMass 54
+    400188: CenterOfMass 55
+    400190: CenterOfMass 56
+    400192: CenterOfMass 57
+    400194: CenterOfMass 58
+    400196: CenterOfMass 59
+    400198: CenterOfMass 6
+    400200: CenterOfMass 60
+    400202: CenterOfMass 61
+    400204: CenterOfMass 62
+    400206: CenterOfMass 63
+    400208: CenterOfMass 7
+    400210: CenterOfMass 8
+    400212: CenterOfMass 9
+    400214: null
+    400216: null 1
+    400218: null 2
+    400220: null 3
+    400222: null 4
+    400224: null 5
+    400226: null 6
+    400228: null 7
+    400230: null 8
+    400232: null 9
+    400234: //RootNode
+    400236: queens_w_1
+    400238: queens_w_10
+    400240: queens_w_11
+    400242: queens_w_12
+    400244: queens_w_13
+    400246: queens_w_2
+    400248: queens_w_3
+    400250: queens_w_4
+    400252: queens_w_5
+    400254: queens_w_6
+    400256: queens_w_7
+    400258: queens_w_8
+    400260: queens_w_9
+    400262: unnamed
+    400264: unnamed 1
+    400266: unnamed 10
+    400268: unnamed 11
+    400270: unnamed 12
+    400272: unnamed 2
+    400274: unnamed 3
+    400276: unnamed 4
+    400278: unnamed 5
+    400280: unnamed 6
+    400282: unnamed 7
+    400284: unnamed 8
+    400286: unnamed 9
+    2300000: 1
+    2300002: 1 1
+    2300004: 1 2
+    2300006: 1 3
+    2300008: 1 4
+    2300010: 1 5
+    2300012: 1 6
+    2300014: 1 7
+    2300016: 1 8
+    2300018: 1 9
+    2300020: 2
+    2300022: 2 1
+    2300024: 2 2
+    2300026: 2 3
+    2300028: 2 4
+    2300030: 2 5
+    2300032: 2 6
+    2300034: 2 7
+    2300036: 2 8
+    2300038: 2 9
+    2300040: 3
+    2300042: 3 1
+    2300044: 3 2
+    2300046: 3 3
+    2300048: 3 4
+    2300050: 3 5
+    2300052: 3 6
+    2300054: 4
+    2300056: 4 1
+    2300058: 4 2
+    2300060: 4 3
+    2300062: 4 4
+    2300064: 5
+    2300066: 5 1
+    2300068: 5 2
+    2300070: 5 3
+    2300072: 5 4
+    2300074: 6
+    2300076: 6 1
+    2300078: 6 2
+    2300080: 6 3
+    2300082: 7
+    2300084: 8
+    2300086: null
+    2300088: null 1
+    2300090: null 2
+    2300092: null 3
+    2300094: null 4
+    2300096: null 5
+    2300098: null 6
+    2300100: null 7
+    2300102: null 8
+    2300104: null 9
+    2300106: unnamed 10
+    2300108: unnamed 2
+    2300110: unnamed 9
+    3300000: 1
+    3300002: 1 1
+    3300004: 1 2
+    3300006: 1 3
+    3300008: 1 4
+    3300010: 1 5
+    3300012: 1 6
+    3300014: 1 7
+    3300016: 1 8
+    3300018: 1 9
+    3300020: 2
+    3300022: 2 1
+    3300024: 2 2
+    3300026: 2 3
+    3300028: 2 4
+    3300030: 2 5
+    3300032: 2 6
+    3300034: 2 7
+    3300036: 2 8
+    3300038: 2 9
+    3300040: 3
+    3300042: 3 1
+    3300044: 3 2
+    3300046: 3 3
+    3300048: 3 4
+    3300050: 3 5
+    3300052: 3 6
+    3300054: 4
+    3300056: 4 1
+    3300058: 4 2
+    3300060: 4 3
+    3300062: 4 4
+    3300064: 5
+    3300066: 5 1
+    3300068: 5 2
+    3300070: 5 3
+    3300072: 5 4
+    3300074: 6
+    3300076: 6 1
+    3300078: 6 2
+    3300080: 6 3
+    3300082: 7
+    3300084: 8
+    3300086: null
+    3300088: null 1
+    3300090: null 2
+    3300092: null 3
+    3300094: null 4
+    3300096: null 5
+    3300098: null 6
+    3300100: null 7
+    3300102: null 8
+    3300104: null 9
+    3300106: unnamed 10
+    3300108: unnamed 2
+    3300110: unnamed 9
+    4300000: null
+    4300002: 1
+    4300004: 2
+    4300006: 3
+    4300008: 4
+    4300010: 5
+    4300012: 6
+    4300014: null
+    4300016: 1
+    4300018: 2
+    4300020: 3
+    4300022: 4
+    4300024: 5
+    4300026: 6
+    4300028: null
+    4300030: 1
+    4300032: 2
+    4300034: 3
+    4300036: 4
+    4300038: 5
+    4300040: 6
+    4300042: null
+    4300044: 1
+    4300046: 2
+    4300048: 3
+    4300050: 4
+    4300052: 5
+    4300054: 6
+    4300056: 7
+    4300058: 8
+    4300060: null
+    4300062: 1
+    4300064: 2
+    4300066: 3
+    4300068: 4
+    4300070: 5
+    4300072: unnamed
+    4300074: unnamed
+    4300076: null
+    4300078: 1
+    4300080: 2
+    4300082: null
+    4300084: 1
+    4300086: 2
+    4300088: 3
+    4300090: null
+    4300092: 1
+    4300094: 2
+    4300096: 3
+    4300098: unnamed
+    4300100: null
+    4300102: 1
+    4300104: 2
+    4300106: null
+    4300108: 1
+    4300110: 2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
